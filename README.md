@@ -5,10 +5,9 @@ This project showcases an MLOps approach to machine learning, focusing on the ap
 
 ## MLOps Integration
 This project is designed with MLOps principles in mind, ensuring that machine learning models are not only developed but also monitored, maintained, and improved continuously. It integrates Weights & Biases (wandb) for experiment tracking, model versioning, and performance monitoring, making it a comprehensive MLOps solution.
-
-![im02](https://github.com/HaykelBargouguy/Transfer-Learning/assets/98351985/345f05c7-1806-494a-8130-beab9ed390a3)
-![im01](https://github.com/HaykelBargouguy/Transfer-Learning/assets/98351985/92603582-cec3-4bf9-9b8b-57ece7e36374)
 ![im00](https://github.com/HaykelBargouguy/Transfer-Learning/assets/98351985/4946dec3-44ed-4264-b147-08ef7ee6d612)
+![im01](https://github.com/HaykelBargouguy/Transfer-Learning/assets/98351985/92603582-cec3-4bf9-9b8b-57ece7e36374)
+![im02](https://github.com/HaykelBargouguy/Transfer-Learning/assets/98351985/345f05c7-1806-494a-8130-beab9ed390a3)
 
 
 ## Installation
